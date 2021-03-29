@@ -1,0 +1,11 @@
+[
+    {
+        "firstName": "f",
+        "lastname": "f",
+        "gender": "Male",
+        "email": "fahmee.al@gmail.com",
+        "username": "f",
+        "password": "123",
+        "rmail": "fahmee.al@gmail.com"
+    }
+]
